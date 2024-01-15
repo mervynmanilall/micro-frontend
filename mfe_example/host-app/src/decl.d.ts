@@ -1,0 +1,1 @@
+declare 'mfe-one/my-first-mfe'
